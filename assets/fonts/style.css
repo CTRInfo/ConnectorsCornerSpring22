@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'SharpSansDisplayNo-Bold';
+   font-display: swap;
+   src: url('SharpSansDisplayNo-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'SharpSansDisplayNo-Book';
+   font-display: swap;
+   src: url('SharpSansDisplayNo-Book/font.ttf');
+}
